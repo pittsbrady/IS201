@@ -1,0 +1,58 @@
+body {background-color: lightslategray;}
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: purple;}
+
+underline {text-decoration: underline;}
+
+bold {font-weight: bold;}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+.normal {
+    position: absolute;
+    border: 2px solid darkgray;
+    background-color: gray;
+    font-family: monospace;
+}
+
+.header {
+    top: 45px;
+    left: 5px;
+    right: 1700px;
+    height: 60px;
+}
+
+
+.bulletlist {
+    top: 55px;
+    left: 5px;
+    right: 5px;
+    width: 300px;
+}
+
+.bulletborder {
+    border: 2px solid darkgray;
+    background-color: gray;
+}
+
+.photoposition {
+    position:absolute;
+    top: 100px;
+    right: 5px;
+}
+
+.gt350subheader {
+    position: absolute;
+    top: 40px;
+    right: 110px;
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+.subheaderfont {font-family: monospace;}
